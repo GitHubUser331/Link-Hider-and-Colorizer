@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+  "name": "Link Hider and Colorizer Extension",
+  "version": "1.0",
+  "description": "Hide/show or change color of links on a webpage",
+  "browser_action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+  "activeTab",
+  "storage"
+],
+  "icons": {
+    "128": "icon.png"
+  }
+}
