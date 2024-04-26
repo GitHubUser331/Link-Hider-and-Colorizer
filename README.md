@@ -14,4 +14,4 @@ file available in releases.
 
 ## NOTE: This extension is just made for fun and is not intended for utility purposes.
 
-#### Product licensed through MIT License.
+#### Project licensed through MIT License.
